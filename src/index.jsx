@@ -10,7 +10,7 @@ class App extends React.Component {
   state = {
     input: "",
     gifs: null,
-    selected: "11ctq1pDmD3cB2"
+    selected: ""
   };
 
   handleChange = event => {
